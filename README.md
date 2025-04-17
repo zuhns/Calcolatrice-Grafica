@@ -1,7 +1,7 @@
 # CALCOLATRICE GRAFICA
 
 ## CREATORE Elia Caviglia
-## VERSIONE 1.0.1
+## VERSIONE 1.0.0
 
 
 La calcolatrice utilizza la libreria exp4j, che supporta la seguente sintassi:
